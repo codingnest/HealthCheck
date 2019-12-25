@@ -45,7 +45,7 @@ onsuming space more than 1 GB
 25-Dec-19 08:01:50 - Message Body     <html>
         <head></head>
         <body>
-            <p>Hey miteshmakhija@gmail.com,<br>
+            <p>Hey <email user><br>
             <br>
             Following alerts generated:<br>            <br><b>CPU value 19.0 is more than Threshold Value 10 </b><br><br><b>Consumed
  RAM 83.8 is more than Threshold Value 30 </b><br><br><b>Disk File consumed space 50.5 is more than Thresold Value 40 </b><br><br><b
